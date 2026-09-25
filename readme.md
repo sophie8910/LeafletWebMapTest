@@ -3,6 +3,7 @@
 ### Author: Shanshan Li (or your name)
 
 A map showing real-time weather radar and alerts from the National Weather Service.
-<URL>
+<https://sophie8910.github.io/LeafletWebMapTest/weather/>
 
 A map showing earthquake distribution
+<https://sophie8910.github.io/LeafletWebMapTest/earthquake>
